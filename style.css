@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+p{
+    color: green;
+    font-style: italic;
+}
+strong{
+    color: red;
+}
+.menu-list{
+    list-style: none;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
